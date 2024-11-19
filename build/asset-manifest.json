@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/frontendAssignment/static/css/main.a746a9d9.css",
+    "main.js": "/github.io/frontendAssignment/static/js/main.049032f3.js",
+    "static/media/Rajat.jpg": "/github.io/frontendAssignment/static/media/Rajat.7dfc6d0c88f561528dce.jpg",
+    "index.html": "/github.io/frontendAssignment/index.html",
+    "main.a746a9d9.css.map": "/github.io/frontendAssignment/static/css/main.a746a9d9.css.map",
+    "main.049032f3.js.map": "/github.io/frontendAssignment/static/js/main.049032f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a746a9d9.css",
+    "static/js/main.049032f3.js"
+  ]
+}
